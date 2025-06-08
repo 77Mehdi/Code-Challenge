@@ -1,16 +1,24 @@
+import Navbar from "./components/nav";
+import "./App.css";
+import { FocusCards } from "./components/ui/focus-cards";
 
-import './App.css'
+
+
+
+
 
 function App() {
-  
+
 
   return (
     <>
-     <h1 class="text-3xl font-bold underline bg-red-500">
-    Hello world!
-  </h1>
+      <Navbar currentStep={2} />
+      
+      <div className="min-h-screen bg-gray-100 dark:bg-black py-10">
+        <FocusCards />
+      </div>
     </>
   )
 }
 
-export default App
+export default App;
