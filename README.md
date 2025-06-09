@@ -1,6 +1,5 @@
 This is a React + Vite project built for the React coding challenge. The goal was to create an interactive, user-friendly interface that fetches and displays skip hire options using data from an API.
 
-https://code-challenge-lilac.vercel.app/select-skip
 .<br>
 .<br>
 .<br>
