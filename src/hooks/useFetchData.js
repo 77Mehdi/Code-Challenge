@@ -7,12 +7,12 @@ const useFetch = () => {
   const [error, setError] = useState(null);
 
 
-
   useEffect(() => {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const res = await axios.get("https://app.wewantwaste.co.uk/api/skips/by-location?postcode=NR32&area=Lowestoft");
+        const res = await axios.get(import.meta.env.VITE_SKIP_API_URL);
+        console.log(res.data)
         setData(res.data); 
       } catch (err) {
         setError(err);
