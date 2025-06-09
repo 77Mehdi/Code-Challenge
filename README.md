@@ -24,14 +24,14 @@ Responsive Design for desktop and mobile
 
 
 /components
- ┣ /ui
- ┃ ┣ FocusCards.jsx     → Renders skip cards dynamically
- ┃ ┗ utils.jsx          → Utility styling/classnames
- ┣ Nav.jsx              → Navigation bar with routing
- ┣ PermintPage.jsx      → Placeholder for a sample page
+ ┣ /ui .<br>
+ ┃ ┣ FocusCards.jsx     → Renders skip cards dynamically .<br>
+ ┃ ┗ utils.jsx          → Utility styling/classnames .<br>
+ ┣ Nav.jsx              → Navigation bar with routing .<br>
+ ┣ PermintPage.jsx      → Placeholder for a sample page .<br>
 
-/hooks
- ┗ useFetchData.js      → Custom hook to fetch skip data
+/hooks .<br>
+ ┗ useFetchData.js      → Custom hook to fetch skip data .<br>
 
 App.jsx                 → Handles routing using react-router-dom
 main.jsx                → Vite root
