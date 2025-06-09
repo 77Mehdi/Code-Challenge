@@ -1,10 +1,10 @@
 This is a React + Vite project built for the React coding challenge. The goal was to create an interactive, user-friendly interface that fetches and displays skip hire options using data from an API.
 
+.<br>
+.<br>
+![Screenshot (108)](https://github.com/user-attachments/assets/d68a314c-bb90-4aa4-8c97-aacdfdd604a2)
 
-.<br>
-.<br>
-.<br>
-.<br>
+
 .<br>
 .<br>
 
