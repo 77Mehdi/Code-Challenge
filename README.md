@@ -42,7 +42,13 @@ App.jsx                 → Handles routing using react-router-dom .<br>
 main.jsx                → Vite root .<br>
 
 
-##########################################################################
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
 
 
 
