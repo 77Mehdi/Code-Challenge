@@ -1,9 +1,12 @@
 This is a React + Vite project built for the React coding challenge. The goal was to create an interactive, user-friendly interface that fetches and displays skip hire options using data from an API.
 
 
-
-############################################################################
-
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
 
 🚀 Features
 Dynamic Data Fetching using Axios + custom hook (useFetchData)
@@ -18,10 +21,12 @@ Routing with react-router-dom between pages
 
 Responsive Design for desktop and mobile
 
-
-
-###########################################################################
-
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
 
 /components
  ┣ /ui .<br>
@@ -33,8 +38,8 @@ Responsive Design for desktop and mobile
 /hooks .<br>
  ┗ useFetchData.js      → Custom hook to fetch skip data .<br>
 
-App.jsx                 → Handles routing using react-router-dom
-main.jsx                → Vite root
+App.jsx                 → Handles routing using react-router-dom .<br>
+main.jsx                → Vite root .<br>
 
 
 ##########################################################################
